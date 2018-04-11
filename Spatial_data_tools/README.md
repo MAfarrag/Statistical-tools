@@ -1,7 +1,4 @@
-# Hydrological_Performance_criteria
-To assess the hydrological model efficiency, using different performance criteria 
-1-RMSE
-2-Nash and Sutcliffe (NSE)
-3-Nash and Sutcliffe with logarithmic values (NSEln)
-4-Weighted Root Mean Square Error (WRMSE)
-5-Kling – Gupta Efficiency index (KGE)
+# Spatial data tools
+to generate spatially distributed data using
+1-inverse distance weighting method
+2-inverse squared distance weighting method
